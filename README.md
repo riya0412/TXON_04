@@ -7,5 +7,7 @@ Movie recommendation system use a set of different filtratio strategies and algr
 In this Project, we are going to build a movie recommendation system using two way;
 
 1)Content based recommendation system and,
+
 2)Collaborative filtering based recommendation system. 
+
 The dataset we are going to use is the Movie dataset from Kaggle which contains about 4803 rows and 24 features.
